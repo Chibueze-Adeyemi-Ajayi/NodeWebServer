@@ -1,0 +1,16 @@
+{
+  "name": "node-web",
+  "version": "1.0.0",
+  "description": "A structure for node js web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon engine.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18"
+  }
+}
